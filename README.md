@@ -1,4 +1,8 @@
+<img src="https://runsms.com/favicon.svg" width="56" height="56" alt="RunSMS 标志">
+
 # RunSMS 使用指南
+
+[RunSMS 官网](https://runsms.com/zh) · [X（Twitter） @runsmscom](https://x.com/runsmscom) · [联系 RunSMS](https://runsms.com/zh/contact)
 
 RunSMS 提供临时号码和租赁号码，用于接收受支持的账户短信。这里整理号码选型、使用前检查和官方服务入口。
 
@@ -20,7 +24,5 @@ RunSMS 提供临时号码和租赁号码，用于接收受支持的账户短信�
 
 ## 官方入口
 
-- [RunSMS 中文官网](https://runsms.com/zh)
 - [常见问题](https://runsms.com/zh/faq)
 - [账号与短信验证指南](https://runsms.com/zh/blog)
-- [联系 RunSMS](https://runsms.com/zh/contact)
